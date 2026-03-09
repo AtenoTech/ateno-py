@@ -1,11 +1,10 @@
 [project]
 name = "ateno"
-version = "0.1.3" # Bump the version so the Robot sees a change
+version = "0.1.3"
 description = "Python SDK for Ateno"
 authors = [{name = "Ateno Inc."}]
 dependencies = ["requests"]
 
-# ADD THIS SECTION:
 [project.scripts]
 ateno = "ateno.main:main" 
 
