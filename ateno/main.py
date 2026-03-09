@@ -2,7 +2,7 @@ import sys
 
 def main():
     if "--version" in sys.argv:
-        print("Ateno CLI v0.1.3")
+        print("Ateno CLI v0.1.4")
         return
     
     print("🚀 Ateno Spatial Design Environment Initialized.")
