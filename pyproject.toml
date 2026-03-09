@@ -1,0 +1,10 @@
+[project]
+name = "ateno"
+version = "0.1.0"
+description = "Python SDK for Ateno"
+authors = [{name = "Ateno Inc."}]
+dependencies = ["requests"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
