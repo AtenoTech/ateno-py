@@ -1,6 +1,6 @@
 [project]
 name = "ateno"
-version = "0.1.3"
+version = "0.1.5"
 description = "Python SDK for Ateno"
 authors = [{name = "Ateno Inc."}]
 dependencies = ["requests"]
